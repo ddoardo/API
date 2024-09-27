@@ -2,18 +2,17 @@
 Aprendizado por Projeto Integrado (API)
 # Aprendizado por Projeto Integrado (API)
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto fundamentado na metodologia ágil SCRUM, visando promover a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos alunos participantes.
 
 # Índice
 
-* [Projeto](#projeto-template)
+* [Projeto](#projeto-API)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
-* [Competências desenvolvidas](#competências-desenvolvidas)
 
 
 # Projeto (API) 
