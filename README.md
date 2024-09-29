@@ -16,7 +16,6 @@ Projeto fundamentado na metodologia ágil SCRUM, visando promover a Proatividade
 # Projeto(API) 
 Um projeto pedagógico fundamentado na Metodologia API, voltado para o desenvolvimento de competências, baseia-se nos princípios de aprendizado ativo com foco na resolução de problemas reais (RPBL), validação externa e adoção da mentalidade ágil.
 A abordagem envolve o uso de estratégias para entender o problema, conceber soluções viáveis e desenvolver um MVP, seguido por sua implementação e operação, conforme os estágios CDIO (Conceber, Desenvolver, Implementar e Operar).
-Os resultados dos projetos devem estar em conformidade com o Aviso Legal disponível no site da Fatec SJC, incluindo a definição das datas para o kickoff e as sprints.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
