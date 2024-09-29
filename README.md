@@ -19,7 +19,8 @@ Projeto fundamentado na metodologia ágil SCRUM, visando promover a Proatividade
 Descrição da demanda realizada pelo parceiro acadêmico.
 
 # Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+|    Função     | Nome                                  |                                                                                                                                                      
+GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner | Breno Cesar Conrado|    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BrenoConrado15)              |
 | Scrum Master  | Matheus Oliveira Alexandre |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MatheusAlexandre1204)     |
