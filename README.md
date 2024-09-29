@@ -74,7 +74,8 @@ Sprint | Previsão | Status|
 # Backlog do produto
   
 <div align="center">
-    
+##Apresentação inicial da tela principal no Jira.
+ 
 ![image](https://github.com/user-attachments/assets/90cf654b-b798-4ed9-b9e9-d012c49d9d7c)
 
 </div>
@@ -83,6 +84,7 @@ Sprint | Previsão | Status|
 # Dashboard - PowerBI
 
 <div align="center">
+##Apresentação inicial de uma tela no PowerBI, com dados referentes à pesquisa.
 
 ![image](https://github.com/user-attachments/assets/ac3085f2-52a2-4665-a12b-f001138a9ba2)
 
