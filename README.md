@@ -1,5 +1,3 @@
-# API
-Aprendizado por Projeto Integrado (API)
 # Aprendizado por Projeto Integrado (API)
 
 Projeto fundamentado na metodologia ágil SCRUM, visando promover a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos alunos participantes.
