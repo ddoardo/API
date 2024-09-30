@@ -7,7 +7,7 @@ Projeto fundamentado na metodologia ágil SCRUM, visando promover a Proatividade
 * [Projeto](#Projeto-API)
 * [Equipe](#equipe)
 * [Sprints](#Sprints)
-* [Dashboard](#Objetivo-do-Projeto)
+* [Objetivo](#Objetivo-do-Projeto)
 * [Backlog do produto](#Backlog-do-produto)
 
 
