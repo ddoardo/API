@@ -28,13 +28,8 @@ A abordagem envolve o uso de estratégias para entender o problema, conceber sol
 |  Team Member  | Juan Marcel   |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juanmarcelg )          |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
-
+Este projeto visa identificar as potenciais cargas em movimentação com base em importações e exportações.
+#
 ## Tecnologias Utilizadas
 * Canva;
 * PowerBI;
