@@ -82,7 +82,7 @@ Apresentação inicial da tela principal no Jira.
 </div>
 
 
-# Dashboard - PowerBI
+# Dashboard Inicial - PowerBI
 
 <div align="center">
 Apresentação inicial de uma tela no PowerBI, com dados referentes à pesquisa.
