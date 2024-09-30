@@ -50,22 +50,25 @@ Sprint | Previsão | Status|
 
 #
 
-## Sprint 1
-* Apresentação inicial dos dados no Power BI;
+## Sprint 00 - BackLog
+* GitHub
+* ** Introdução do backlog no GitHub
+
+* JiraSoftware
 * Apresentação inicial da conta no Jira;
 * Apresentação inicial da conta no GitHub;
 
-## Sprint 2
+## Sprint 01
 * Dashboard Power BI;
 * Plataforma Jira funcionando;
 * GitHub funcionando;
 
-## Sprint 3 
+## Sprint 02
 * Apresentação final do power BI com possibilidade de interação;
 * Apresentação final do Jira;
 * Apresentação final do projeto no GitHub;
 
-#
+## Sprint 03
 
 # Backlog do produto
   
