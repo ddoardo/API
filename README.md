@@ -1,7 +1,3 @@
-# Aprendizado por Projeto Integrado (API)
-
-Projeto fundamentado na metodologia ágil SCRUM, visando promover a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos alunos participantes.
-
 # Índice
 
 * [Projeto](#Projeto-API)
@@ -11,7 +7,7 @@ Projeto fundamentado na metodologia ágil SCRUM, visando promover a Proatividade
 * [Backlog do produto](#Backlog-do-produto)
 
 
-# Projeto(API) 
+# Aprendizado por Projeto Integrado (API) 
 Um projeto pedagógico fundamentado na Metodologia API, voltado para o desenvolvimento de competências, baseia-se nos princípios de aprendizado ativo com foco na resolução de problemas reais (RPBL), validação externa e adoção da mentalidade ágil.
 A abordagem envolve o uso de estratégias para entender o problema, conceber soluções viáveis e desenvolver um MVP, seguido por sua implementação e operação, conforme os estágios CDIO (Conceber, Desenvolver, Implementar e Operar).
 
