@@ -42,33 +42,39 @@ Este projeto visa identificar as potenciais cargas em movimentação com base em
 Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off | 02/09/2024 | concluido|
-|00 | 30/09/2024 | concluido| 
-|01|  14/10/2024| em progresso |
-|02| 04/11/2024 | a fazer|
-|03| 25/11/2024|a fazer |
+|01 | 30/09/2024 | concluido| 
+|02|  14/10/2024| em progresso |
+|03| 04/11/2024 | a fazer|
+|04| 25/11/2024|a fazer |
 |Feira de Soluções|12/12/2024 |a fazer |
 
 #
 
-## Sprint 00 - BackLog
-* GitHub
-* ** Introdução do backlog no GitHub
+## Sprint 01 - Backlog
+### GitHub + Jira
+*  Introdução ao projeto integrador (Introdução ao produto);
+*  Apresentação da equipe (com designação de funções);
+*  Desenvolvimento e objetivos para cada Sprint (o que será desenvolvido a cada sprint);
 
-* JiraSoftware
-* Apresentação inicial da conta no Jira;
-* Apresentação inicial da conta no GitHub;
-
-## Sprint 01
-* Dashboard Power BI;
-* Plataforma Jira funcionando;
-* GitHub funcionando;
-
-## Sprint 02
-* Apresentação final do power BI com possibilidade de interação;
-* Apresentação final do Jira;
-* Apresentação final do projeto no GitHub;
-
+## Sprint 02 - Power BI 🠖 S1
+### Dashboard funcional, apresentando filtros interativos para uso do cliente, como:
+  *  Valor agregado exportado/importado por município;
+  *  Possibilidade de filtro por região (RMvale e litoral);
+  *  Valor FOB de importação/exportação por município;
+  *  Peso (Kg - Líquido) de importação/exportação por munícipio;
+  *  Gráficos ligados aos filtros para melhor visualização de dados;
+    
 ## Sprint 03
+  * Top 10 - Sh4 por região;
+  * Top 10 - SH4 por município;
+  * Meio de transporte utilizados na região;
+  * Meio de transporte utilizados por município;
+
+## Sprint 04
+  * Dashboard finalizado, entregando informações pontuais e oportunidades de movimentação de cargos pelo modal áereo na região RMVale e Litoral Norte.
+  * Tela totalmente interativa para uso do cliente.
+
+
 
 # Backlog do produto
   
