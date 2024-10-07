@@ -87,7 +87,7 @@ Apresentação inicial da tela principal no Jira.
 <div align="center">
 Apresentação inicial de uma tela no PowerBI, com dados referentes à pesquisa.
 
-![image](https://github.com/user-attachments/assets/ac3085f2-52a2-4665-a12b-f001138a9ba2)
+![WhatsApp Image 2024-10-07 at 19 49 56](https://github.com/user-attachments/assets/d330d330-7b12-4d5d-9921-7e93cba5d8b4)
 
 </div>
 
