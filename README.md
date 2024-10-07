@@ -61,12 +61,14 @@ Sprint | Previsão | Status|
   *  Gráficos ligados aos filtros para melhor visualização de dados;
     
 ## Sprint 03 
-  * Top 10 - Sh4 por região;
+### Acréscimo de informações, como:
+  * Top 10 - SH4 por região;
   * Top 10 - SH4 por município;
   * Meio de transporte utilizados na região;
   * Meio de transporte utilizados por município;
 
 ## Sprint 04 
+### Finalização do projeto
   * Dashboard finalizado, entregando informações pontuais e oportunidades de movimentação de cargos pelo modal áereo na região RMVale e Litoral Norte.
   * Tela totalmente interativa para uso do cliente.
 
