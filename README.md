@@ -52,7 +52,7 @@ Sprint | Previsão | Status|
 *  Apresentação da equipe (com designação de funções);
 *  Desenvolvimento e objetivos para cada Sprint (o que será desenvolvido a cada sprint);
 
-## Sprint 02 - Power BI 🠖 S2
+## Sprint 02 
 ### Dashboard funcional, apresentando filtros interativos para uso do cliente, como:
   *  Valor agregado exportado/importado por município;
   *  Possibilidade de filtro por região (RMvale e litoral);
@@ -60,13 +60,13 @@ Sprint | Previsão | Status|
   *  Peso (Kg - Líquido) de importação/exportação por munícipio;
   *  Gráficos ligados aos filtros para melhor visualização de dados;
     
-## Sprint 03 - Power BI 🠖 S3
+## Sprint 03 
   * Top 10 - Sh4 por região;
   * Top 10 - SH4 por município;
   * Meio de transporte utilizados na região;
   * Meio de transporte utilizados por município;
 
-## Sprint 04 - Power BI 🠖 S4
+## Sprint 04 
   * Dashboard finalizado, entregando informações pontuais e oportunidades de movimentação de cargos pelo modal áereo na região RMVale e Litoral Norte.
   * Tela totalmente interativa para uso do cliente.
 
