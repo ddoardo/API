@@ -53,24 +53,30 @@ Sprint | Previsão | Status|
 *  Desenvolvimento e objetivos para cada Sprint (o que será desenvolvido a cada sprint);
 
 ## Sprint 02 
-### Dashboard funcional, apresentando filtros interativos para uso do cliente, como:
-  *  Valor agregado exportado/importado por município;
-  *  Possibilidade de filtro por região (RMvale e litoral);
-  *  Valor FOB de importação/exportação por município;
-  *  Peso (Kg - Líquido) de importação/exportação por munícipio;
-  *  Gráficos ligados aos filtros para melhor visualização de dados;
+### Dashboard funcional, aprimorando filtros intuitivos para uso de cliente, como:
+  *  Valor agregado exportado por município
+  *  Valor agregado importado por município
+  *  Possibilidade de filtro por região (RM Vale e Litoral)
+  *  Valor FOB de exportação por município
+  *  Valor FOB de importação por município
+  *  Custo (Kg líquido) de exportação por município
+  *  Custo (Kg líquido) de importação por município
+  *  Gráficos ligados aos filtros para melhor visualização de dados
+  *  Top 10 - SH4 por região
+  *  Top 10 - SH4 por município
     
 ## Sprint 03 
 ### Acréscimo de informações, como:
-  * Top 10 - SH4 por região;
-  * Top 10 - SH4 por município;
-  * Meio de transporte utilizados na região;
-  * Meio de transporte utilizados por município;
-
+* Alteração no formato da apresentação do valor agregado para média de valor
+* Otimização do dashboard - lateralização das informações
+* Importações e exportações dentro do estado de São Paulo
+* Alteração da descrição de SH4 para apenas código SH4
+* Interação de valor agregado por munícipio possibilitando a visão de movimentações SH4 que ainda não foram visualizadas pelo transporte aéreo - oportunidades de movimentação.
+  
 ## Sprint 04 
 ### Finalização do projeto
-  * Dashboard finalizado, entregando informações pontuais e oportunidades de movimentação de cargos pelo modal áereo na região RMVale e Litoral Norte.
-  * Tela totalmente interativa para uso do cliente.
+* Dashboard finalizado, integrando informações pontuais e oportunidades de movimentação de cargas pelo modal aéreo na região RM Vale e Litoral Norte.
+* Tela totalmente intuitiva para uso do cliente.
 
 
 
