@@ -75,8 +75,9 @@ Sprint | Previsão | Status|
   
 ## Sprint 04 
 ### Finalização do projeto
-* Dashboard finalizado, integrando informações pontuais e oportunidades de movimentação de cargas pelo modal aéreo na região RM Vale e Litoral Norte.
-* Tela totalmente intuitiva para uso do cliente.
+* Exibir nome do objeto ao passar o mouse sobre o código SH4: Configurar o sistema para que, ao posicionar o cursor sobre o código SH4, seja exibido o nome do objeto correspondente em uma janela flutuante.
+* Alternativa: abrir página detalhada no BI: Caso a funcionalidade acima não seja viável, configurar o BI para abrir uma nova página com as descrições completas dos itens ao clicar no código SH4.
+* Integração do BI lateral com informações detalhadas: Estabelecer um link direto entre o BI secundário e o BI principal, permitindo o acesso a informações mais completas dos objetos exibidos
 
 
 
@@ -98,6 +99,19 @@ Apresentação inicial de uma tela no PowerBI, com dados referentes à pesquisa.
 ![WhatsApp Image 2024-10-07 at 19 49 56](https://github.com/user-attachments/assets/d330d330-7b12-4d5d-9921-7e93cba5d8b4)
 
 </div>
+
+# DashBoard - Power BI
+
+![image](https://github.com/user-attachments/assets/808c4324-c710-4237-a271-7553a5e8d710)
+
+![image](https://github.com/user-attachments/assets/12934f57-8d21-4e01-a0d7-7fff15524d43)
+
+![image](https://github.com/user-attachments/assets/3a2112f2-25c7-49af-848c-7423117098af)
+
+##
+
+
+
 
 
 
