@@ -37,12 +37,12 @@ Este projeto visa identificar as potenciais cargas em movimentação com base em
 
 Sprint | Previsão | Status|
 |------|--------|------|
-|Kick Off | 02/09/2024 | concluido|
-|01 | 30/09/2024 | concluido| 
-|02|  14/10/2024| em progresso |
-|03| 04/11/2024 | a fazer|
-|04| 25/11/2024|a fazer |
-|Feira de Soluções|12/12/2024 |a fazer |
+|Kick Off | 02/09/2024 | concluido |
+|01 | 30/09/2024 | concluido | 
+|02|  14/10/2024| concluído |
+|03| 04/11/2024 | concluído |
+|04| 25/11/2024| em progresso |
+|Feira de Soluções|12/12/2024 | a fazer |
 
 #
 
@@ -100,7 +100,7 @@ Apresentação inicial de uma tela no PowerBI, com dados referentes à pesquisa.
 
 </div>
 
-# DashBoard - Power BI
+# DashBoard Final - Power BI
 
 ![image](https://github.com/user-attachments/assets/808c4324-c710-4237-a271-7553a5e8d710)
 
