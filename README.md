@@ -5,7 +5,7 @@
 * [Sprints](#Sprints)
 * [Objetivo](#Objetivo-do-Projeto)
 * [Backlog do produto](#Backlog-do-produto)
-
+* [Relatório](#Relatorio)
 
 # Aprendizado por Projeto Integrado (API) 
 Um projeto pedagógico fundamentado na Metodologia API, voltado para o desenvolvimento de competências, baseia-se nos princípios de aprendizado ativo com foco na resolução de problemas reais (RPBL), validação externa e adoção da mentalidade ágil.
@@ -109,6 +109,10 @@ Apresentação inicial de uma tela no PowerBI, com dados referentes à pesquisa.
 ![image](https://github.com/user-attachments/assets/3a2112f2-25c7-49af-848c-7423117098af)
 
 ##
+
+# Relatório - API
+
+🟢Link: https://github.com/ddoardo/API/blob/main/RELATÓRIO%20DE%20API.docx
 
 
 
