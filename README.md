@@ -5,7 +5,7 @@
 * [Sprints](#Sprints)
 * [Objetivo](#Objetivo-do-Projeto)
 * [Backlog do produto](#Backlog-do-produto)
-* [Relatório](#Relatorio)
+* [Relatório](#Relatório)
 
 # Aprendizado por Projeto Integrado (API) 
 Um projeto pedagógico fundamentado na Metodologia API, voltado para o desenvolvimento de competências, baseia-se nos princípios de aprendizado ativo com foco na resolução de problemas reais (RPBL), validação externa e adoção da mentalidade ágil.
