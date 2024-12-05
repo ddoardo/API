@@ -1,3 +1,7 @@
+# Aprendizado por Projeto Integrado (API) 
+Um projeto pedagógico fundamentado na Metodologia API, voltado para o desenvolvimento de competências, baseia-se nos princípios de aprendizado ativo com foco na resolução de problemas reais (RPBL), validação externa e adoção da mentalidade ágil.
+A abordagem envolve o uso de estratégias para entender o problema, conceber soluções viáveis e desenvolver um MVP, seguido por sua implementação e operação, conforme os estágios CDIO (Conceber, Desenvolver, Implementar e Operar).
+
 # Índice
 
 * [Projeto](#Projeto-API)
@@ -6,10 +10,6 @@
 * [Objetivo](#Objetivo-do-Projeto)
 * [Backlog do produto](#Backlog-do-produto)
 * [Relatório](#Relatório)
-
-# Aprendizado por Projeto Integrado (API) 
-Um projeto pedagógico fundamentado na Metodologia API, voltado para o desenvolvimento de competências, baseia-se nos princípios de aprendizado ativo com foco na resolução de problemas reais (RPBL), validação externa e adoção da mentalidade ágil.
-A abordagem envolve o uso de estratégias para entender o problema, conceber soluções viáveis e desenvolver um MVP, seguido por sua implementação e operação, conforme os estágios CDIO (Conceber, Desenvolver, Implementar e Operar).
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
