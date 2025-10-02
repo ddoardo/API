@@ -15,12 +15,8 @@ A abordagem envolve o uso de estratégias para entender o problema, conceber sol
 |    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner | Breno Cesar Conrado|    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BrenoConrado15)              |
-| Scrum Master  | Matheus Oliveira Alexandre |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MatheusAlexandre1204)     |
-| Team Member   | Gabriel Poffo              |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielpoffo)        |
+| Scrum Master  | Gabriel Poffo              |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielpoffo)        |
 |  Team Member  | Eduardo Pereira                 |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ddoardo)        |
-|  Team Member  | Gabriel Alves              |    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrieltn16)   |
-|  Team Member  | Larissa Nogueira   |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Larih13)          |
-|  Team Member  | Fernando Fernandes de Andrade   |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]( 0 )          |
 |  Team Member  | Juan Marcel   |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juanmarcelg )          |
 
 # Objetivo do Projeto
