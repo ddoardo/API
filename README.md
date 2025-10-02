@@ -1,15 +1,9 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ab8d8f0c-cd0d-4cea-84e7-2ed7e22aca9b" />
+
 # Aprendizado por Projeto Integrado (API) 
 Um projeto pedagógico fundamentado na Metodologia API, voltado para o desenvolvimento de competências, baseia-se nos princípios de aprendizado ativo com foco na resolução de problemas reais (RPBL), validação externa e adoção da mentalidade ágil.
 A abordagem envolve o uso de estratégias para entender o problema, conceber soluções viáveis e desenvolver um MVP, seguido por sua implementação e operação, conforme os estágios CDIO (Conceber, Desenvolver, Implementar e Operar).
 
-# Índice
-
-* [Projeto](#Projeto-API)
-* [Equipe](#equipe)
-* [Sprints](#Sprints)
-* [Objetivo](#Objetivo-do-Projeto)
-* [Backlog do produto](#Backlog-do-produto)
-* [Relatório](#Relatório)
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
@@ -29,90 +23,143 @@ Este projeto visa identificar as potenciais cargas em movimentação com base em
 * GitHub;
 * JiraSoftware;
 
-# Sprints
-
-Sprint | Previsão | Status|
-|------|--------|------|
-|Kick Off | 02/09/2024 | concluido |
-|01 | 30/09/2024 | concluido | 
-|02|  14/10/2024| concluído |
-|03| 04/11/2024 | concluído |
-|04| 25/11/2024| em progresso |
-|Feira de Soluções|12/12/2024 | a fazer |
-
 #
 
-## Sprint 01 - Backlog
-### GitHub + Jira
-*  Introdução ao projeto integrador (Introdução ao produto);
-*  Apresentação da equipe (com designação de funções);
-*  Desenvolvimento e objetivos para cada Sprint (o que será desenvolvido a cada sprint);
+# User Stories e DoR – Dashboard de Segurança Viária
 
-## Sprint 02 
-### Dashboard funcional, aprimorando filtros intuitivos para uso de cliente, como:
-  *  Valor agregado exportado por município
-  *  Valor agregado importado por município
-  *  Possibilidade de filtro por região (RM Vale e Litoral)
-  *  Valor FOB de exportação por município
-  *  Valor FOB de importação por município
-  *  Custo (Kg líquido) de exportação por município
-  *  Custo (Kg líquido) de importação por município
-  *  Gráficos ligados aos filtros para melhor visualização de dados
-  *  Top 10 - SH4 por região
-  *  Top 10 - SH4 por município
+## 1ª Sprint
+### User Story 1:
+
+ “Como tomador de decisões públicas, quero receber uma base consolidada de dados de segurança viária, para ter uma visão única e confiável da situação em SP.”
+
+### DoR:
+
+* Base tratada da PRF disponível.
+* Base tratada do DATASUS disponível.
+* Base tratada do DENATRAN/SENATRAN disponível.
+* Base do IBGE disponível (população e frota).
+* Estrutura inicial de repositório criada no GitHub.
+
+### User Story 2:
+##### Dashboard funcional, aprimorando filtros intuitivos para uso de cliente, como:
+ “Como gestor, quero visualizar uma proposta inicial da interface do dashboard, para entender como será a navegação e os principais indicadores.”
+
+### DoR:
+
+* Protótipo não funcional elaborado (wireframe).
+* Definição dos indicadores principais para tela inicial (sinistros, óbitos, frota, taxa de motorização).
+* Layout inicial documentado (menu, cards, área de gráficos, filtros).
+  
     
-## Sprint 03 
-### Acréscimo de informações, como:
-* Alteração no formato da apresentação do valor agregado para média de valor
+## 2ª Sprint
+### User Story 3:
+ “Como tomador de decisão, quero acessar um dashboard inicial com visão geral de SP, para comparar mortes, frota e taxa de motorização.”
+  
 * Otimização do dashboard - lateralização das informações
 * Importações e exportações dentro do estado de São Paulo
 * Alteração da descrição de SH4 para apenas código SH4
 * Interação de valor agregado por munícipio possibilitando a visão de movimentações SH4 que ainda não foram visualizadas pelo transporte aéreo - oportunidades de movimentação.
   
-## Sprint 04 
-### Finalização do projeto
-* Exibir nome do objeto ao passar o mouse sobre o código SH4: Configurar o sistema para que, ao posicionar o cursor sobre o código SH4, seja exibido o nome do objeto correspondente em uma janela flutuante.
-* Alternativa: abrir página detalhada no BI: Caso a funcionalidade acima não seja viável, configurar o BI para abrir uma nova página com as descrições completas dos itens ao clicar no código SH4.
-* Integração do BI lateral com informações detalhadas: Estabelecer um link direto entre o BI secundário e o BI principal, permitindo o acesso a informações mais completas dos objetos exibidos
+### User Story 4:
+ “Como analista, quero aplicar filtros de ano, região e tipo de veículo, para segmentar os dados conforme minha necessidade.”
+
+### DoR:
+
+* Estrutura de filtros validada.
+* Dados categorizados (ano, região administrativa, tipo de veículo, gravidade).
+* Mapa interativo de SP disponível para integração.
+
+#
+
+### User Story 5:
+ “Como gestor, quero visualizar indicadores-chave (mortalidade por 100 mil habitantes, sinistros por 10 mil veículos), para apoiar decisões estratégicas.”
+
+### DoR:
+
+* Fórmulas de cálculo definidas e validadas.
+* Bases integradas para cruzamento (IBGE + DATASUS e DENATRAN + PRF).
+
+#
+# 3ª Sprint
+
+### User Story 6:
+ “Como pesquisador, quero visualizar a evolução temporal (2015–2025) dos sinistros fatais, para entender tendências.”
+
+### DoR:
+
+* Série histórica organizada e padronizada.
+* Gráfico de linhas preparado no Power BI.
+
+#
+
+# User Story 7:
+ “Como analista, quero comparar o crescimento da frota com o aumento dos sinistros fatais, para avaliar correlações.”
+
+### DoR:
+
+* Dados da frota por ano consolidados.
+* Dados de sinistros fatais por ano consolidados.
+* Modelo de correlação definido.
 
 
 
-# Backlog do produto
-  
-<div align="center">
-Apresentação inicial da tela principal no Jira.
- 
-![image](https://github.com/user-attachments/assets/90cf654b-b798-4ed9-b9e9-d012c49d9d7c)
+# User Story 8:
+ “Como gestor, quero visualizar rankings de regiões mais críticas em taxa de letalidade, para priorizar políticas públicas.”
 
-</div>
+### DoR:
 
+* Taxas de letalidade calculadas por região administrativa.
+* Visualização de ranking disponível no Power BI.
 
-# Dashboard Inicial - PowerBI
+#
+# User Story 9:
+ “Como usuário final, quero um dashboard intuitivo com documentação, para navegar facilmente e compreender os dados.”
 
-<div align="center">
-Apresentação inicial de uma tela no PowerBI, com dados referentes à pesquisa.
+### DoR:
 
-![WhatsApp Image 2024-10-07 at 19 49 56](https://github.com/user-attachments/assets/d330d330-7b12-4d5d-9921-7e93cba5d8b4)
-
-</div>
-
-# DashBoard Final - Power BI
-
-![image](https://github.com/user-attachments/assets/808c4324-c710-4237-a271-7553a5e8d710)
-
-![image](https://github.com/user-attachments/assets/12934f57-8d21-4e01-a0d7-7fff15524d43)
-
-![image](https://github.com/user-attachments/assets/3a2112f2-25c7-49af-848c-7423117098af)
-
-##
-
-# Relatório - API
-
-🟢Link: https://github.com/ddoardo/API/blob/main/RELATÓRIO%20DE%20API.docx
+* Layout final revisado e validado.
+* Documentação/manual de uso elaborado.
+* Navegação testada com casos de uso básicos.
 
 
+# 
 
+# Backlog do Produto – Dashboard de Segurança Viária
 
+# 1º Sprint
 
+### Criação da base consolidada de dados de segurança viária de SP, construída a partir de fontes públicas:
 
+* PRF – Polícia Rodoviária Federal.
+* DATASUS – Ministério da Saúde (informações de mortalidade).
+* DENATRAN/SENATRAN – Frota de veículos.
+* IBGE – População e taxa de motorização.
+* Criação do repositório no GitHub para versionamento do projeto.
 
+### Proposta inicial da interface do dashboard (protótipo não funcional):
+
+* Tela inicial com cards de indicadores principais (sinistros, óbitos, frota, taxa de motorização).
+* Menu lateral de navegação (Visão Geral, Mapa, Evolução Temporal).
+* Espaço reservado para gráfico de barras/linhas comparativo por ano.
+* Área reservada para mapa interativo de SP.
+* Filtro superior simulado (Ano, Região Administrativa, Tipo de Veículo).
+
+# 2º Sprint
+
+* Implementação do dashboard inicial no Power BI com visão geral de SP (mortes, frota e taxa de motorização).
+* Desenvolvimento do mapa interativo destacando as regiões administrativas de SP com maiores índices de sinistros.
+* Inclusão de filtros interativos funcionais: ano, região administrativa, tipo de veículo e gravidade do sinistro.
+
+### Criação de indicadores-chave:
+
+* Mortalidade por 100 mil habitantes (IBGE + DATASUS).
+* Sinistros por 10 mil veículos (DENATRAN/SENATRAN + PRF).
+
+# 3º Sprint
+
+* Evolução temporal (2015–2025) dos sinistros fatais em SP.
+* Análise da correlação entre crescimento da frota e aumento dos sinistros fatais.
+* Visualizações segmentadas por tipo de veículo (motos, carros, caminhões, ônibus etc.).
+* Ranking das regiões de SP mais críticas em taxa de letalidade.
+* Dashboard final com navegação intuitiva e layout refinado no Power BI.
+* Entrega da documentação final (manual de uso para o cliente).
