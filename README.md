@@ -64,16 +64,16 @@ Este projeto tem como objetivo o desenvolvimento de uma ferramenta de Business I
 ### 🔴 Proposta inicial da interface do dashboard (protótipo não funcional):
 
 * Tela inicial com cards de indicadores principais (sinistros, óbitos, frota, taxa de motorização).
-* Menu lateral de navegação (Visão Geral, Mapa, Evolução Temporal).
-* Espaço reservado para gráfico de barras/linhas comparativo por ano.
-* Área reservada para mapa interativo de SP.
-* Filtro superior simulado (Ano, Região Administrativa, Tipo de Veículo).
 
 # 2º Sprint
 
 * Implementação do dashboard inicial no Power BI com visão geral de SP (mortes, frota e taxa de motorização).
 * Desenvolvimento do mapa interativo destacando as regiões administrativas de SP com maiores índices de sinistros.
 * Inclusão de filtros interativos funcionais: ano, região administrativa, tipo de veículo e gravidade do sinistro.
+* Menu lateral de navegação (Visão Geral, Mapa, Evolução Temporal).
+* Espaço reservado para gráfico de barras/linhas comparativo por ano.
+* Área reservada para mapa interativo de SP.
+* Filtro superior simulado (Ano, Região Administrativa, Tipo de Veículo).
 
 ### 🔴 Criação de indicadores-chave:
 
