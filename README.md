@@ -1,9 +1,23 @@
 <img width="300" height="300" alt="Sem Título-3" src="https://github.com/user-attachments/assets/ba5e532d-6907-4a76-9ce0-6edc4f94ab58" />
 
 
-# Aprendizado por Projeto Integrado (API) 
-Um projeto pedagógico fundamentado na Metodologia API, voltado para o desenvolvimento de competências, baseia-se nos princípios de aprendizado ativo com foco na resolução de problemas reais (RPBL), validação externa e adoção da mentalidade ágil.
-A abordagem envolve o uso de estratégias para entender o problema, conceber soluções viáveis e desenvolver um MVP, seguido por sua implementação e operação, conforme os estágios CDIO (Conceber, Desenvolver, Implementar e Operar).
+# 📊 Ferramenta de Business Intelligence para Análise de Sinistralidade no Trânsito Brasileiro
+### 🔍 Sobre o Projeto
+
+Este projeto tem como objetivo o desenvolvimento de uma ferramenta de Business Intelligence (BI) que integre diferentes bases de dados públicas para analisar, monitorar e visualizar indicadores de sinistralidade no trânsito no Brasil. O foco principal é oferecer métricas e insights por estado e em nível nacional, possibilitando análises comparativas e evolutivas com base em dados oficiais.
+
+# 📌 Indicadores Disponíveis
+
+### A ferramenta permite a visualização e análise dos seguintes indicadores:
+
+* Taxa de mortalidade por 100 mil habitantes
+* Severidade dos sinistros
+* Frota total e por tipo de veículo (carros, motocicletas, etc.)
+* Índice de motorização (frota / população)
+* Distribuição de acidentes por tipo de veículo
+* Evolução temporal dos sinistros (2015–2024)
+* Comparativo regional dos indicadores
+* Eficiência na redução de mortes no trânsito por estado
 
 
 # Equipe
@@ -13,16 +27,26 @@ A abordagem envolve o uso de estratégias para entender o problema, conceber sol
 | Scrum Master  | Gabriel Poffo              |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielpoffo)        |
 |  Team Member  | Eduardo Pereira                 |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ddoardo)        |
 |  Team Member  | Juan Marcel   |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juanmarcelg )          |
+#
+
+# 🗂️ Bases de Dados Utilizadas
+
+### A ferramenta integra dados de diversas fontes públicas, incluindo:
+
+* PRF (Polícia Rodoviária Federal) – Dados de sinistros nas rodovias federais.
+* DATASUS – Informações de mortalidade por causas externas, incluindo acidentes de trânsito.
+* DENATRAN/SENATRAN – Dados sobre frota de veículos por tipo e estado.
+* IBGE – Informações populacionais, demográficas e territoriais.
 
 #
-## Ferramentas Utilizadas
+## 🛠️ Tecnologias Utilizadas
 * PowerPoint;
 * PowerBI;
 * Excel;
 * GitHub;
 * Python;
   
-# 
+#
 
 # Backlog do Produto – Dashboard de Segurança Viária
 
