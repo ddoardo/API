@@ -1,4 +1,5 @@
-<img width="300" height="300" alt="Sem Título-3" src="https://github.com/user-attachments/assets/ba5e532d-6907-4a76-9ce0-6edc4f94ab58" />
+# ✨ Metralha Soluções 
+<img width="300" height="300" alt="Sem Título-3" src="https://github.com/user-attachments/assets/ba5e532d-6907-4a76-9ce0-6edc4f94ab58" /> 
 
 
 # 📊 Ferramenta de Business Intelligence para Análise de Sinistralidade no Trânsito Brasileiro
@@ -52,7 +53,7 @@ Este projeto tem como objetivo o desenvolvimento de uma ferramenta de Business I
 
 # 1º Sprint
 
-### Criação da base consolidada de dados de segurança viária de SP, construída a partir de fontes públicas:
+### 🔴 Criação da base consolidada de dados de segurança viária de SP, construída a partir de fontes públicas:
 
 * PRF – Polícia Rodoviária Federal.
 * DATASUS – Ministério da Saúde (informações de mortalidade).
@@ -60,7 +61,7 @@ Este projeto tem como objetivo o desenvolvimento de uma ferramenta de Business I
 * IBGE – População e taxa de motorização.
 * Criação do repositório no GitHub para versionamento do projeto.
 
-### Proposta inicial da interface do dashboard (protótipo não funcional):
+### 🔴 Proposta inicial da interface do dashboard (protótipo não funcional):
 
 * Tela inicial com cards de indicadores principais (sinistros, óbitos, frota, taxa de motorização).
 * Menu lateral de navegação (Visão Geral, Mapa, Evolução Temporal).
@@ -74,7 +75,7 @@ Este projeto tem como objetivo o desenvolvimento de uma ferramenta de Business I
 * Desenvolvimento do mapa interativo destacando as regiões administrativas de SP com maiores índices de sinistros.
 * Inclusão de filtros interativos funcionais: ano, região administrativa, tipo de veículo e gravidade do sinistro.
 
-### Criação de indicadores-chave:
+### 🔴 Criação de indicadores-chave:
 
 * Mortalidade por 100 mil habitantes (IBGE + DATASUS).
 * Sinistros por 10 mil veículos (DENATRAN/SENATRAN + PRF).
