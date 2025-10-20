@@ -46,7 +46,14 @@ Este projeto tem como objetivo o desenvolvimento de uma ferramenta de Business I
 * Excel;
 * GitHub;
 * Python;
-  
+
+#
+## 👑MVP
+-------------------------
+
+
+
+
 #
 
 # 📑 Backlog do Produto – Dashboard de Segurança Viária
