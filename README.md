@@ -77,6 +77,23 @@ O objetivo principal é oferecer uma visão integrada e interativa sobre dados d
 ### 🗺️ Objetivo do MVP
 Entregar uma primeira versão funcional e visualmente estruturada do dashboard, validando a integração dos dados e a interação dos filtros, além de gerar insights iniciais sobre o comportamento dos sinistros no estado de São Paulo.
 
+## 🧩 MVP – Análises Avançadas de Sinistros em São Paulo (Sprint 3)
+
+![2025-11-2822-45-48online-video-cutter com-ezgif com-speed](https://github.com/user-attachments/assets/e6611b03-3d1e-44a3-8c16-7efcb1b19a85)
+
+🚀 Funcionalidades Implementadas (Sprint 3)
+
+📈 Evolução temporal (2015–2025) dos sinistros fatais no estado de São Paulo.
+🔗 Análise de correlação entre crescimento da frota (DENATRAN/SENATRAN) e aumento dos sinistros fatais (PRF + DATASUS).
+🚗 Visualizações segmentadas por tipo de veículo: motos, carros, caminhões, ônibus etc.
+🏆 Ranking das regiões administrativas mais críticas em taxa de letalidade.
+📊 Dashboard final, otimizado com navegação intuitiva no Power BI.
+📘 Entrega da documentação final, incluindo manual de uso para o cliente.
+
+🎯 Objetivo do MVP
+
+Aprimorar o dashboard para permitir análises avançadas e identificar padrões ao longo do tempo, evidenciando relações entre aumento da frota e letalidade, além de destacar os tipos de veículos e regiões que mais contribuem para os sinistros fatais em São Paulo.
+
 #
 
 # 📑 Backlog do Produto – Dashboard de Segurança Viária
