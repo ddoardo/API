@@ -2,23 +2,30 @@
 <img width="300" height="300" alt="Sem Título-3" src="https://github.com/user-attachments/assets/ba5e532d-6907-4a76-9ce0-6edc4f94ab58" /> 
 
 
-# 📊 Ferramenta de Business Intelligence para Análise de Sinistralidade no Trânsito Brasileiro
+# 📊 Plataforma de Business Intelligence para Análise de Eficiência Portuária no Brasil
+
 ### 🔍 Sobre o Projeto
 
-Este projeto tem como objetivo o desenvolvimento de uma ferramenta de Business Intelligence (BI) que integre diferentes bases de dados públicas para analisar, monitorar e visualizar indicadores de sinistralidade no trânsito no Brasil. O foco principal é oferecer métricas e insights por estado e em nível nacional, possibilitando análises comparativas e evolutivas com base em dados oficiais.
+Este projeto tem como objetivo o desenvolvimento de uma plataforma de Business Intelligence (BI) que integra dados públicos do setor portuário brasileiro, permitindo analisar, monitorar e visualizar indicadores de eficiência operacional nos terminais portuários.
+
+O foco principal é fornecer métricas estratégicas sobre movimentação de cargas, tempos operacionais e desempenho dos terminais, possibilitando análises comparativas, identificação de gargalos logísticos e suporte à tomada de decisão baseada em dados.
+
+---
 
 # 📌 Indicadores Disponíveis
 
-### A ferramenta permite a visualização e análise dos seguintes indicadores:
+### A plataforma permite a visualização e análise dos seguintes indicadores:
 
-* Taxa de mortalidade por 100 mil habitantes
-* Severidade dos sinistros
-* Frota total e por tipo de veículo (carros, motocicletas, etc.)
-* Índice de motorização (frota / população)
-* Distribuição de acidentes por tipo de veículo
-* Evolução temporal dos sinistros (2015–2024)
-* Comparativo regional dos indicadores
-* Eficiência na redução de mortes no trânsito por estado
+* Ranking de eficiência dos terminais portuários
+* Volume total de cargas movimentadas por terminal
+* Evolução mensal da movimentação de cargas
+* Tempo médio de operação portuária
+* Identificação de gargalos operacionais
+* Principais motivos de paradas portuárias
+* Comparação de desempenho entre terminais
+* Distribuição de cargas por tipo (granéis, contêineres, etc.)
+* Análise temporal das operações portuárias
+* Indicadores de produtividade operacional
 
 
 # Equipe
@@ -33,13 +40,13 @@ Este projeto tem como objetivo o desenvolvimento de uma ferramenta de Business I
 
 # 🗂️ Bases de Dados Utilizadas
 
-### A ferramenta integra dados de diversas fontes públicas, incluindo:
+### A plataforma integra dados de diversas fontes públicas, incluindo:
 
-* PRF (Polícia Rodoviária Federal) – Dados de sinistros nas rodovias federais.
-* DATASUS – Informações de mortalidade por causas externas, incluindo acidentes de trânsito.
-* DENATRAN/SENATRAN – Dados sobre frota de veículos por tipo e estado.
-* IBGE – Informações populacionais, demográficas e territoriais.
-
+* ANTAQ (Agência Nacional de Transportes Aquaviários) – Dados de movimentação de cargas, operações portuárias e desempenho dos terminais.
+* Estatístico Aquaviário – Base detalhada com informações operacionais dos portos brasileiros.
+* Dados de Operações Portuárias – Informações sobre tempos de operação, espera e produtividade.
+* Classificação de Cargas – Dados sobre tipos de cargas movimentadas (granéis sólidos, líquidos, contêineres, etc.).
+* Bases tratadas via Google Colab – Dados limpos, normalizados e preparados para análise no Power BI.
 #
 ## 🛠️ Tecnologias Utilizadas
 * PowerPoint;
@@ -75,6 +82,6 @@ Este projeto tem como objetivo o desenvolvimento de uma ferramenta de Business I
 | Sprint | Previsão | Status | Histórico |
 |--------|----------|--------|-----------|
 | 01 | 24/04/2026 | Finalizado | [MVP](docs/mvp/) |
-| 02 | dd/mm/2026 | a fazer | [MVP](docs/mvp/) |
-| 03 | dd/mm/2026 | a fazer | [MVP](docs/mvp/) |
-| Feira de Soluções | dd/mm/20 | a fazer | [MVP](docs/mvp/) |
+| 02 | 15/05/2026 | a fazer | [MVP](docs/mvp/) |
+| 03 | 29/05/2026 | a fazer | [MVP](docs/mvp/) |
+| Feira de Soluções | 18/06/2026 | a fazer | [MVP](docs/mvp/) |
