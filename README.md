@@ -28,6 +28,7 @@ Este projeto tem como objetivo o desenvolvimento de uma ferramenta de Business I
 | Scrum Master  | Gabriel Poffo              |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielpoffo)        |
 |  Team Member  | Eduardo Pereira                 |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ddoardo)        |
 |  Team Member  | Juan Marcel   |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juanmarcelg )          |
+|  Team Member  | Pedro Hernandes   |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juanmarcelg )          |
 #
 
 # 🗂️ Bases de Dados Utilizadas
@@ -48,83 +49,32 @@ Este projeto tem como objetivo o desenvolvimento de uma ferramenta de Business I
 * Python;
 
 
-# 📑 Backlog do Produto – Dashboard de Segurança Viária
+# 📑 Backlog do Produto – Dashboard de Eficiência Portuária
 
-# 1º Sprint
+---
 
-### 🔴 User Story 1:
- “Como tomador de decisões públicas, quero receber uma base consolidada de dados de segurança viária, para ter uma visão única e confiável da situação em SP.”
+# Product Backlog
 
-### DoR:
-* Base tratada da PRF disponível.
-* Base tratada do DATASUS disponível.
-* Base tratada do DENATRAN/SENATRAN disponível.
-* Base do IBGE disponível (população e frota).
-* Estrutura inicial de repositório criada no GitHub.
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|------|------------|------------|------------|--------|
+| 1 | Alta | Como analista logístico, quero visualizar ranking de eficiência dos terminais portuários para comparar desempenho | 5 | 1 |
+| 2 | Alta | Como analista logístico, quero visualizar a evolução da movimentação por mês para analisar tendências | 8 | 1 |
+| 3 | Alta | Como gestor portuário, quero visualizar tempos de operação para identificar gargalos | 5 | 2 |
+| 4 | Alta | Como analista logístico, quero visualizar os principais motivos de paradas para reduzir ineficiências | 8 | 2 |
+| 5 | Alta | Como analista logístico, quero aplicar filtros personalizados para análises específicas | 5 | 2 |
+| 6 | Alta | Como analista logístico, quero buscar terminais por nome para facilitar a análise | 3 | 2 |
+| 7 | Média | Como analista logístico, quero visualizar volume de cargas por tipo para entender o perfil logístico | 5 | 3 |
+| 8 | Média | Como gestor portuário, quero comparar terminais entre si para apoiar decisões | 8 | 3 |
+| 9 | Média | Como estudante de logística, quero visualizar dashboards interativos para aprendizado | 3 | 3 |
+| 10 | Baixa | Como administrador do sistema, quero atualizar a base de dados para manter as informações atualizadas | 2 | 3 |
 
-### 🔴 User Story 2:
- “Como gestor, quero visualizar uma proposta inicial da interface do dashboard, para entender como será a navegação e os principais indicadores.”
+---
 
-### DoR:
-* Protótipo não funcional elaborado (wireframe).
-* Definição dos indicadores principais para tela inicial (sinistros, óbitos, frota, taxa de motorização).
-* Layout inicial documentado (menu, cards, área de gráficos, filtros).
-  
-#
-# 2º Sprint
+# Registro das Sprints
 
-### 🔴 User Story 3:
- “Como tomador de decisão, quero acessar um dashboard inicial com visão geral de SP, para comparar mortes, frota e taxa de motorização.”
- 
-### DoR:
-* Dados consolidados e limpos da 1ª Sprint.
-* Conexão das bases ao Power BI configurada.
-* Cards e gráficos básicos definidos.
-
-### 🔴 User Story 4:
- “Como analista, quero aplicar filtros de ano, região e tipo de veículo, para segmentar os dados conforme minha necessidade.”
-
-### DoR:
-* Estrutura de filtros validada.
-* Dados categorizados (ano, região administrativa, tipo de veículo, gravidade).
-* Mapa interativo de SP disponível para integração.
-
-### 🔴 User Story 5:
- “Como gestor, quero visualizar indicadores-chave (mortalidade por 100 mil habitantes, sinistros por 10 mil veículos), para apoiar decisões estratégicas.”
-
-### DoR:
-* Fórmulas de cálculo definidas e validadas.
-* Bases integradas para cruzamento (IBGE + DATASUS e DENATRAN + PRF).
-
-#
-# 3º Sprint
-
-### 🔴 User Story 6:
- “Como pesquisador, quero visualizar a evolução temporal (2015–2025) dos sinistros fatais, para entender tendências.”
-
-### DoR:
-* Série histórica organizada e padronizada.
-* Gráfico de linhas preparado no Power BI.
-
-### 🔴 User Story 7:
- “Como analista, quero comparar o crescimento da frota com o aumento dos sinistros fatais, para avaliar correlações.”
-
-### DoR:
-* Dados da frota por ano consolidados.
-* Dados de sinistros fatais por ano consolidados.
-* Modelo de correlação definido.
-
-### 🔴 User Story 8:
- “Como gestor, quero visualizar rankings de regiões mais críticas em taxa de letalidade, para priorizar políticas públicas.”
-
-### DoR:
-* Taxas de letalidade calculadas por região administrativa.
-* Visualização de ranking disponível no Power BI.
-
-### 🔴 User Story 9:
- “Como usuário final, quero um dashboard intuitivo com documentação, para navegar facilmente e compreender os dados.”
-
-### DoR:
-* Layout final revisado e validado.
-* Documentação/manual de uso elaborado.
-* Navegação testada com casos de uso básicos.
+| Sprint | Previsão | Status | Histórico |
+|--------|----------|--------|-----------|
+| 01 | 24/04/2026 | Finalizado | [MVP](docs/mvp/) |
+| 02 | dd/mm/2026 | a fazer | [MVP](docs/mvp/) |
+| 03 | dd/mm/2026 | a fazer | [MVP](docs/mvp/) |
+| Feira de Soluções | dd/mm/20 | a fazer | [MVP](docs/mvp/) |
