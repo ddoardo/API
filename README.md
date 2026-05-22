@@ -48,13 +48,14 @@ O foco principal é fornecer métricas estratégicas sobre movimentação de car
 
 
 # Equipe
-|    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Team Member | Breno Cesar Conrado|    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BrenoConrado15)              |
-| Scrum Master  | Gabriel Poffo              |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielpoffo)        |
-|  Product Owner  | Eduardo Pereira                 |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ddoardo)        |
-|  Team Member  | Juan Marcel   |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juanmarcelg )          |
-|  Team Member  | Pedro Hernandes   |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juanmarcelg )          |
+
+| Função | Nome | LinkedIn |
+| :---: | :--- | :---: |
+| Team Member | Breno Cesar Conrado | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardoacpereira) |
+| Scrum Master | Gabriel Poffo | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
+| Product Owner | Eduardo Pereira | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
+| Team Member | Juan Marcel | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/juan-marcel-a0386a380/)) |
+| Team Member | Pedro Hernandes | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/) |
 
 <p align="right">
   <a href="#metralha-soluções">⬆ Voltar para sumário</a>
