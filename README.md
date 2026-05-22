@@ -1,4 +1,4 @@
-# ✨ Metralha Soluções 
+# Metralha Soluções 
 <img width="300" height="300" alt="Sem Título-3" src="https://github.com/user-attachments/assets/ba5e532d-6907-4a76-9ce0-6edc4f94ab58" /> 
 
 # 📚 Sumário
@@ -95,3 +95,5 @@ O foco principal é fornecer métricas estratégicas sobre movimentação de car
 | 02 | 15/05/2026 | a fazer | [MVP](docs/mvp/) |
 | 03 | 29/05/2026 | a fazer | [MVP](docs/mvp/) |
 | Feira de Soluções | 18/06/2026 | a fazer | [MVP](docs/mvp/) |
+
+[⬆ Voltar ao topo](#metralha-soluções)
