@@ -5,11 +5,11 @@
 
 - [📊 Sobre o Projeto](#-sobre-o-projeto)
 - [📌 Indicadores Disponíveis](#-indicadores-disponíveis)
-- [👥 Equipe](#-equipe)
+- [👥 Equipe](#equipe)
 - [🗂️ Bases de Dados Utilizadas](#️-bases-de-dados-utilizadas)
 - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
-- [📑 Product Backlog](#-product-backlog)
-- [📅 Registro das Sprints](#-registro-das-sprints)
+- [📑 Product Backlog](#product-backlog)
+- [📅 Registro das Sprints](#registro-das-sprints)
 
 
 # 📊 Plataforma de Business Intelligence para Análise de Eficiência Portuária no Brasil
