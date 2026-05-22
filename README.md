@@ -1,6 +1,16 @@
 # ✨ Metralha Soluções 
 <img width="300" height="300" alt="Sem Título-3" src="https://github.com/user-attachments/assets/ba5e532d-6907-4a76-9ce0-6edc4f94ab58" /> 
 
+# 📚 Sumário
+
+- [📊 Sobre o Projeto](#-sobre-o-projeto)
+- [📌 Indicadores Disponíveis](#-indicadores-disponíveis)
+- [👥 Equipe](#-equipe)
+- [🗂️ Bases de Dados Utilizadas](#️-bases-de-dados-utilizadas)
+- [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
+- [📑 Product Backlog](#-product-backlog)
+- [📅 Registro das Sprints](#-registro-das-sprints)
+
 
 # 📊 Plataforma de Business Intelligence para Análise de Eficiência Portuária no Brasil
 
