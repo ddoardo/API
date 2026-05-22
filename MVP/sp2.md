@@ -1,34 +1,33 @@
-# 📌 MVP - Sprint 2 – Dashboard de Segurança Viária
+# 📌 MVP - Sprint 2 – Dashboard de Eficiência Portuária
 
 ## 🎯 Objetivo do MVP
-Criar o dashboard inicial no Power BI, com visão geral do Estado de SP, incluindo indicadores e filtros essenciais.
+Desenvolver a primeira versão funcional do dashboard no Power BI, permitindo visualizar indicadores gerais de eficiência portuária e movimentação de cargas.
 
-- **Problema que resolve:** Falta de visualização integrada.  
-- **Hipótese validada:** Indicadores centrais + filtros permitem compreensão rápida do cenário.  
-- **Valor entregue:** Primeira versão funcional do dashboard.
+- **Problema que resolve:** A ausência de visualização integrada dificulta a análise rápida dos dados operacionais.  
+- **Hipótese validada:** Dashboards interativos facilitam a identificação de padrões e gargalos operacionais.  
+- **Valor entregue:** Dashboard funcional inicial com filtros e indicadores básicos.
 
 ---
 
 ## 📝 Descrição da Solução
-- Conexão das bases consolidadas ao Power BI.  
-- Criação do dashboard inicial com cards e gráficos básicos.  
-- Implementação de filtros por ano, região e tipo de veículo.  
-- Cálculo dos indicadores-chave:  
-  - Mortalidade por 100 mil habitantes  
-  - Sinistros por 10 mil veículos  
+- Implementação do dashboard inicial no Power BI.  
+- Desenvolvimento da visão geral dos terminais portuários.  
+- Criação de gráficos de movimentação de cargas.  
+- Implementação de filtros interativos por terminal, período e tipo de carga.  
+- Criação dos primeiros indicadores operacionais.
 
 **Limitações:**  
-- Visualizações ainda simples.  
-- Sem série temporal nem rankings.
+- Comparações avançadas ainda não implementadas.  
+- Dashboard com número reduzido de análises detalhadas.  
 
 **Escopo reduzido:**  
-Painel inicial e filtros básicos.
+Foco na funcionalidade principal e navegação inicial do dashboard.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1 – Tomador de Decisão:** Ver panorama rápido do estado.  
-- **Persona 2 – Analista:** Segmentar informações por filtros estratégicos.
+- **Persona 1 – Gestor Portuário:** Precisa acompanhar eficiência operacional e movimentação dos terminais.  
+- **Persona 2 – Analista Logístico:** Necessita aplicar filtros para realizar análises específicas.  
 
 ---
 
@@ -36,44 +35,46 @@ Painel inicial e filtros básicos.
 
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US3 | Como tomador de decisão, quero acessar um dashboard inicial para comparar mortes e frota. | Alta | 8 pontos |
-| US4 | Como analista, quero aplicar filtros de ano, região e veículo para segmentar dados. | Alta | 5 pontos |
-| US5 | Como gestor, quero visualizar indicadores-chave para apoiar decisões. | Alta | 5 pontos |
+| US3 | Como analista logístico, quero acessar um dashboard inicial para analisar eficiência e movimentação dos terminais. | Alta       | 8 pontos   |
+| US4 | Como analista logístico, quero aplicar filtros por terminal, período e tipo de carga para realizar análises específicas. | Alta       | 5 pontos   |
+| US5 | Como gestor portuário, quero visualizar indicadores operacionais para apoiar decisões estratégicas. | Média      | 5 pontos   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 
-| Sprint | Entregas Principais                       | Status       |
-|--------|--------------------------------------------|--------------|
-| 01     | Base consolidada + wireframe               | Concluído    |
-| 02     | Dashboard inicial + filtros + indicadores  | Concluído    |
-| 03     | Análises avançadas                         | Planejado    |
+| Sprint | Entregas Principais                                      | Status     |
+|--------|-----------------------------------------------------------|------------|
+| 01     | Consolidação das bases + Wireframe inicial               | Concluído  |
+| 02     | Dashboard funcional + Filtros + Indicadores             | Concluído  |
+| 03     | Comparações e análises avançadas                         | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- Dashboard funcional com visão geral.  
-- Filtros devem influenciar todos os gráficos.  
-- Indicadores devem estar corretos segundo fórmulas definidas.  
-- Métricas: tempo de carregamento e uso de filtros.
+- O dashboard deve estar funcional no Power BI.  
+- Deve permitir filtros por terminal, período e tipo de carga.  
+- Os indicadores operacionais devem ser exibidos corretamente.  
+- Os gráficos devem atualizar dinamicamente conforme os filtros aplicados.  
 
 ---
 
 ## 📈 Métricas de Validação
-- Feedback do gestor sobre clareza dos indicadores.  
-- Testes de integridade dos cálculos.  
-- Número de interações com filtros.
+- Tempo de resposta dos filtros.  
+- Integridade das informações exibidas.  
+- Validação dos indicadores pelos stakeholders.  
+- Navegação funcional no dashboard.  
 
 ---
 
 ## 🚀 Próximos Passos
-- Criar série temporal 2015–2025.  
-- Adicionar correlação frota × sinistros.  
-- Criar ranking de regiões.
+- Implementar comparações entre terminais.  
+- Desenvolver análises de gargalos operacionais.  
+- Criar ranking de eficiência e motivos de paradas.  
 
 ---
 
 ## 📂 Anexos / Evidências
-![2025-10-31 19-26-08 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/ed9577dc-a720-4079-ac80-1e960f8187da)
-
+- Dashboard Power BI  
+- Repositório GitHub  
+- Base consolidada e tratada  
