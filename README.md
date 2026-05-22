@@ -96,4 +96,6 @@ O foco principal é fornecer métricas estratégicas sobre movimentação de car
 | 03 | 29/05/2026 | a fazer | [MVP](docs/mvp/) |
 | Feira de Soluções | 18/06/2026 | a fazer | [MVP](docs/mvp/) |
 
-[⬆ Voltar ao topo](#metralha-soluções)
+<p align="right">
+  <a href="#metralha-soluções">⬆ Voltar ao topo</a>
+</p>
