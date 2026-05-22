@@ -13,6 +13,7 @@
 - [📑 Product Backlog](#product-backlog)
 - [📅 Registro das Sprints](#registro-das-sprints)
 
+---
 
 # 📊 Plataforma de Business Intelligence para Análise de Eficiência Portuária no Brasil
 ### 🔍 Sobre o Projeto
