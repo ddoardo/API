@@ -1,6 +1,8 @@
 # Metralha Soluções 
 <img width="300" height="300" alt="Sem Título-3" src="https://github.com/user-attachments/assets/ba5e532d-6907-4a76-9ce0-6edc4f94ab58" /> 
 
+<a id="sumario"></a>
+
 # 📚 Sumário
 
 - [📊 Sobre o Projeto](#-sobre-o-projeto)
@@ -13,12 +15,14 @@
 
 
 # 📊 Plataforma de Business Intelligence para Análise de Eficiência Portuária no Brasil
-
 ### 🔍 Sobre o Projeto
 
 Este projeto tem como objetivo o desenvolvimento de uma plataforma de Business Intelligence (BI) que integra dados públicos do setor portuário brasileiro, permitindo analisar, monitorar e visualizar indicadores de eficiência operacional nos terminais portuários.
 
 O foco principal é fornecer métricas estratégicas sobre movimentação de cargas, tempos operacionais e desempenho dos terminais, possibilitando análises comparativas, identificação de gargalos logísticos e suporte à tomada de decisão baseada em dados.
+<p align="right">
+  <a href="#sumario">⬆ Voltar para sumário</a>
+</p>
 
 ---
 
@@ -37,6 +41,10 @@ O foco principal é fornecer métricas estratégicas sobre movimentação de car
 * Análise temporal das operações portuárias
 * Indicadores de produtividade operacional
 
+<p align="right">
+  <a href="#sumario">⬆ Voltar para sumário</a>
+</p>
+
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
@@ -46,6 +54,11 @@ O foco principal é fornecer métricas estratégicas sobre movimentação de car
 |  Product Owner  | Eduardo Pereira                 |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ddoardo)        |
 |  Team Member  | Juan Marcel   |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juanmarcelg )          |
 |  Team Member  | Pedro Hernandes   |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juanmarcelg )          |
+
+<p align="right">
+  <a href="#sumario">⬆ Voltar para sumário</a>
+</p>
+
 #
 
 # 🗂️ Bases de Dados Utilizadas
@@ -65,6 +78,9 @@ O foco principal é fornecer métricas estratégicas sobre movimentação de car
 * GitHub;
 * Python;
 
+<p align="right">
+  <a href="#sumario">⬆ Voltar para sumário</a>
+</p>
 
 # 📑 Backlog do Produto – Dashboard de Eficiência Portuária
 
@@ -84,6 +100,10 @@ O foco principal é fornecer métricas estratégicas sobre movimentação de car
 | 8 | Média | Como gestor portuário, quero comparar terminais entre si para apoiar decisões | 8 | 3 |
 | 9 | Média | Como estudante de logística, quero visualizar dashboards interativos para aprendizado | 3 | 3 |
 | 10 | Baixa | Como administrador do sistema, quero atualizar a base de dados para manter as informações atualizadas | 2 | 3 |
+
+<p align="right">
+  <a href="#sumario">⬆ Voltar para sumário</a>
+</p>
 
 ---
 
