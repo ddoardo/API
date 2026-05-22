@@ -22,7 +22,7 @@ Este projeto tem como objetivo o desenvolvimento de uma plataforma de Business I
 
 O foco principal é fornecer métricas estratégicas sobre movimentação de cargas, tempos operacionais e desempenho dos terminais, possibilitando análises comparativas, identificação de gargalos logísticos e suporte à tomada de decisão baseada em dados.
 <p align="right">
-  <a href="#sumario">⬆ Voltar para sumário</a>
+  <a href="#metralha-soluções">⬆ Voltar para sumário</a>
 </p>
 
 ---
@@ -43,7 +43,7 @@ O foco principal é fornecer métricas estratégicas sobre movimentação de car
 * Indicadores de produtividade operacional
 
 <p align="right">
-  <a href="#sumario">⬆ Voltar para sumário</a>
+  <a href="#metralha-soluções">⬆ Voltar para sumário</a>
 </p>
 
 
@@ -57,7 +57,7 @@ O foco principal é fornecer métricas estratégicas sobre movimentação de car
 |  Team Member  | Pedro Hernandes   |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juanmarcelg )          |
 
 <p align="right">
-  <a href="#sumario">⬆ Voltar para sumário</a>
+  <a href="#metralha-soluções">⬆ Voltar para sumário</a>
 </p>
 
 #
@@ -80,7 +80,7 @@ O foco principal é fornecer métricas estratégicas sobre movimentação de car
 * Python;
 
 <p align="right">
-  <a href="#sumario">⬆ Voltar para sumário</a>
+  <a href="#metralha-soluções">⬆ Voltar para sumário</a>
 </p>
 
 # 📑 Backlog do Produto – Dashboard de Eficiência Portuária
@@ -103,7 +103,7 @@ O foco principal é fornecer métricas estratégicas sobre movimentação de car
 | 10 | Baixa | Como administrador do sistema, quero atualizar a base de dados para manter as informações atualizadas | 2 | 3 |
 
 <p align="right">
-  <a href="#sumario">⬆ Voltar para sumário</a>
+  <a href="#metralha-soluções">⬆ Voltar para sumário</a>
 </p>
 
 ---
