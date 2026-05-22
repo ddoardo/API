@@ -1,33 +1,33 @@
-# 📌 MVP - Sprint 3 – Dashboard de Segurança Viária
+# 📌 MVP - Sprint 3 – Dashboard de Eficiência Portuária
 
 ## 🎯 Objetivo do MVP
-Entregar análises avançadas e finalização do dashboard completo: séries temporais, rankings e documentação.
+Implementar análises avançadas e comparativas para identificação de gargalos operacionais e avaliação da eficiência entre terminais portuários.
 
-- **Problema que resolve:** Necessidade de análises mais profundas para tomada de decisão.  
-- **Hipótese validada:** Visualizações avançadas revelam tendências e regiões críticas.  
-- **Valor entregue:** Dashboard final, documentado e pronto para uso institucional.
+- **Problema que resolve:** Falta de indicadores comparativos e análises estratégicas para apoio à tomada de decisão.  
+- **Hipótese validada:** Comparações entre terminais e análises de paradas ajudam na identificação de melhorias operacionais.  
+- **Valor entregue:** Dashboard refinado com análises avançadas e visualizações comparativas.
 
 ---
 
 ## 📝 Descrição da Solução
-- Implementação da série temporal 2015–2025.  
-- Comparação de crescimento da frota × sinistros fatais.  
-- Criação de ranking das regiões mais críticas.  
-- Ajuste do layout final e documentação completa.  
-- Testes de navegação com casos reais.
+- Implementação da análise temporal das operações portuárias.  
+- Desenvolvimento de ranking de eficiência entre terminais.  
+- Criação de visualizações dos principais motivos de paradas operacionais.  
+- Comparação lado a lado entre terminais.  
+- Refinamento da navegação e layout final do dashboard.
 
 **Limitações:**  
-- Sem previsões automáticas.  
-- Atualização das bases ainda manual.
+- Dados dependentes da atualização das bases oficiais.  
+- Algumas análises avançadas poderão depender de novas integrações futuras.  
 
 **Escopo reduzido:**  
-Entrega da versão final do dashboard.
+Foco em comparações operacionais e análises estratégicas principais.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1 – Pesquisador:** Analisar tendências históricas.  
-- **Persona 2 – Gestor Público:** Priorizar regiões críticas.
+- **Persona 1 – Gestor Portuário:** Precisa identificar gargalos e comparar desempenho entre terminais.  
+- **Persona 2 – Analista Logístico:** Necessita de análises avançadas para tomada de decisão operacional.  
 
 ---
 
@@ -35,46 +35,50 @@ Entrega da versão final do dashboard.
 
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US6 | Como pesquisador, quero visualizar a evolução temporal dos sinistros fatais. | Média | 5 pontos |
-| US7 | Como analista, quero comparar frota × sinistros para avaliar correlações. | Média | 3 pontos |
-| US8 | Como gestor, quero visualizar ranking das regiões mais críticas. | Alta | 5 pontos |
-| US9 | Como usuário final, quero um dashboard intuitivo e documentado. | Média | 3 pontos |
+| US6 | Como analista logístico, quero visualizar a evolução mensal da movimentação de cargas para identificar tendências operacionais. | Alta | 5 pontos |
+| US7 | Como gestor portuário, quero analisar os tempos de operação para identificar gargalos. | Alta | 8 pontos |
+| US8 | Como analista logístico, quero visualizar os principais motivos de paradas operacionais para reduzir ineficiências. | Média | 5 pontos |
+| US9 | Como gestor portuário, quero comparar terminais portuários para apoiar decisões estratégicas. | Média | 8 pontos |
+| US10 | Como usuário final, quero um dashboard intuitivo e documentado para facilitar o uso da plataforma. | Baixa | 3 pontos |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 
-| Sprint | Entregas Principais                           | Status      |
-|--------|-----------------------------------------------|-------------|
-| 01     | Bases consolidadas + wireframe                | Concluído   |
-| 02     | Dashboard inicial + filtros                   | Concluído   |
-| 03     | Análises avançadas + versão final             | Concluído   |
+| Sprint | Entregas Principais | Status |
+|--------|---------------------|--------|
+| 01 | Consolidação das bases + Estrutura inicial do dashboard | Concluído |
+| 02 | Dashboard funcional + Indicadores básicos | Concluído |
+| 03 | Comparações avançadas + Dashboard final | Concluído |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- Série temporal completamente funcional.  
-- Comparação frota × sinistros operando corretamente.  
-- Ranking atualizado dinamicamente por filtros.  
-- Manual do usuário entregue.  
-- Métricas: tempo de navegação, uso dos rankings.
+- O dashboard deve apresentar comparações entre terminais.  
+- Deve exibir ranking de eficiência operacional.  
+- Deve apresentar visualizações dos motivos de paradas.  
+- O layout deve possuir navegação intuitiva.  
+- A documentação final deve estar disponível para o cliente.  
 
 ---
 
 ## 📈 Métricas de Validação
-- Aderência dos usuários às visualizações avançadas.  
-- Clareza dos insights gerados.  
-- Feedback positivo sobre navegabilidade.
+- Precisão dos indicadores comparativos.  
+- Validação das análises pelos stakeholders.  
+- Usabilidade e navegação do dashboard.  
+- Performance do dashboard em consultas e filtros.  
 
 ---
 
 ## 🚀 Próximos Passos
-- Automatizar atualização das bases.  
-- Adicionar modelos preditivos.  
-- Criar alertas automáticos de risco.  
-- Expandir análises para nível municipal.
+- Evoluir a plataforma com análises preditivas.  
+- Integrar novas bases de dados portuários.  
+- Automatizar atualização das bases oficiais.  
 
 ---
 
 ## 📂 Anexos / Evidências
-![2025-11-2822-45-48online-video-cutter com-ezgif com-speed](https://github.com/user-attachments/assets/e6611b03-3d1e-44a3-8c16-7efcb1b19a85)
+- Dashboard Power BI final  
+- Repositório GitHub atualizado  
+- Documentação do projeto  
+- Bases tratadas e consolidadas  
