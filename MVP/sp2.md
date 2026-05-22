@@ -35,19 +35,19 @@ Foco na funcionalidade principal e navegação inicial do dashboard.
 
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US3 | Como analista logístico, quero acessar um dashboard inicial para analisar eficiência e movimentação dos terminais. | Alta       | 8 pontos   |
-| US4 | Como analista logístico, quero aplicar filtros por terminal, período e tipo de carga para realizar análises específicas. | Alta       | 5 pontos   |
-| US5 | Como gestor portuário, quero visualizar indicadores operacionais para apoiar decisões estratégicas. | Média      | 5 pontos   |
+| US3 | Como analista logístico, quero acessar um dashboard inicial para analisar eficiência e movimentação dos terminais. | Alta | 8 pontos |
+| US4 | Como analista logístico, quero aplicar filtros por terminal, período e tipo de carga para realizar análises específicas. | Alta | 5 pontos |
+| US5 | Como gestor portuário, quero visualizar indicadores operacionais para apoiar decisões estratégicas. | Média | 5 pontos |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 
-| Sprint | Entregas Principais                                      | Status     |
-|--------|-----------------------------------------------------------|------------|
-| 01     | Consolidação das bases + Wireframe inicial               | Concluído  |
-| 02     | Dashboard funcional + Filtros + Indicadores             | Concluído  |
-| 03     | Comparações e análises avançadas                         | Em andamento |
+| Sprint | Entregas Principais | Status |
+|--------|---------------------|--------|
+| 01 | Consolidação das bases + Estrutura inicial do dashboard | Concluído |
+| 02 | Dashboard funcional + Filtros + Indicadores | Concluído |
+| 03 | Comparações e análises avançadas | Em andamento |
 
 ---
 
