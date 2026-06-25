@@ -115,8 +115,8 @@ O foco principal é fornecer métricas estratégicas sobre movimentação de car
 |--------|----------|--------|-----------|
 | 01 | 24/04/2026 | Finalizado | [MVP](./MVP/sp1.md) |
 | 02 | 22/05/2026 | Finalizado | [MVP](./MVP/sp2.md) |
-| 03 | 29/05/2026 | a fazer | [MVP](./MVP/sp3.md) |
-| Feira de Soluções | 18/06/2026 | a fazer | [MVP](./MVP/) |
+| 03 | 29/05/2026 | Finalizado | [MVP](./MVP/sp3.md) |
+| Feira de Soluções | Finalizado | a fazer | [MVP](./MVP/) |
 
 <p align="right">
   <a href="#metralha-soluções">⬆ Voltar ao topo</a>
