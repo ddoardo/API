@@ -58,7 +58,6 @@ Foco na entrega da versão final do dashboard com indicadores estratégicos e an
 
 ## 📊 Critérios de Aceitação
 
-- O dashboard deve apresentar ranking de eficiência dos terminais.
 - Deve permitir comparação entre terminais portuários.
 - Deve apresentar análise dos principais motivos de paradas.
 - Deve disponibilizar evolução temporal da movimentação de cargas.
