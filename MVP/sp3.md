@@ -1,45 +1,48 @@
 # 📌 MVP - Sprint 3 – Dashboard de Eficiência Portuária
 
 ## 🎯 Objetivo do MVP
-Implementar análises avançadas e comparativas para identificação de gargalos operacionais e avaliação da eficiência entre terminais portuários.
+Disponibilizar a versão final da plataforma de Business Intelligence, permitindo análises comparativas entre terminais portuários e auxiliando na tomada de decisão por meio de indicadores de eficiência operacional.
 
-- **Problema que resolve:** Falta de indicadores comparativos e análises estratégicas para apoio à tomada de decisão.  
-- **Hipótese validada:** Comparações entre terminais e análises de paradas ajudam na identificação de melhorias operacionais.  
-- **Valor entregue:** Dashboard refinado com análises avançadas e visualizações comparativas.
+- **Problema que resolve:** A dificuldade em comparar o desempenho dos terminais e identificar fatores que impactam a eficiência operacional.
+- **Hipótese validada:** A disponibilização de análises comparativas e indicadores estratégicos facilita a identificação de oportunidades de melhoria na operação portuária.
+- **Valor entregue:** Dashboard completo, com análises comparativas, indicadores consolidados e documentação final do projeto.
 
 ---
 
 ## 📝 Descrição da Solução
-- Implementação da análise temporal das operações portuárias.  
-- Desenvolvimento de ranking de eficiência entre terminais.  
-- Criação de visualizações dos principais motivos de paradas operacionais.  
-- Comparação lado a lado entre terminais.  
-- Refinamento da navegação e layout final do dashboard.
 
-**Limitações:**  
-- Dados dependentes da atualização das bases oficiais.  
-- Algumas análises avançadas poderão depender de novas integrações futuras.  
+- Implementação da análise temporal da movimentação de cargas.
+- Desenvolvimento do ranking de eficiência dos terminais portuários.
+- Implementação da análise dos principais motivos de paradas operacionais.
+- Comparação entre terminais utilizando indicadores padronizados.
+- Refinamento da navegação e organização do dashboard.
+- Finalização da documentação técnica e manual de utilização.
 
-**Escopo reduzido:**  
-Foco em comparações operacionais e análises estratégicas principais.
+**Limitações:**
+- Os resultados dependem da atualização das bases oficiais disponibilizadas pela ANTAQ.
+- Novos indicadores poderão ser incorporados em futuras versões da plataforma.
+
+**Escopo reduzido:**
+Foco na entrega da versão final do dashboard com indicadores estratégicos e análises comparativas.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1 – Gestor Portuário:** Precisa identificar gargalos e comparar desempenho entre terminais.  
-- **Persona 2 – Analista Logístico:** Necessita de análises avançadas para tomada de decisão operacional.  
+
+- **Persona 1 – Gestor Portuário:** Utiliza os indicadores para acompanhar o desempenho dos terminais e apoiar decisões estratégicas.
+- **Persona 2 – Analista Logístico:** Analisa tendências, compara terminais e identifica oportunidades de melhoria operacional.
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
+| ID | User Story | Prioridade | Estimativa |
+|----|------------|------------|------------|
 | US6 | Como analista logístico, quero visualizar a evolução mensal da movimentação de cargas para identificar tendências operacionais. | Alta | 5 pontos |
-| US7 | Como gestor portuário, quero analisar os tempos de operação para identificar gargalos. | Alta | 8 pontos |
+| US7 | Como gestor portuário, quero analisar os tempos de operação para identificar gargalos logísticos. | Alta | 8 pontos |
 | US8 | Como analista logístico, quero visualizar os principais motivos de paradas operacionais para reduzir ineficiências. | Média | 5 pontos |
-| US9 | Como gestor portuário, quero comparar terminais portuários para apoiar decisões estratégicas. | Média | 8 pontos |
-| US10 | Como usuário final, quero um dashboard intuitivo e documentado para facilitar o uso da plataforma. | Baixa | 3 pontos |
+| US9 | Como gestor portuário, quero comparar o desempenho entre terminais para apoiar decisões estratégicas. | Média | 8 pontos |
+| US10 | Como usuário final, quero utilizar um dashboard intuitivo e documentado para facilitar a navegação e interpretação das informações. | Baixa | 3 pontos |
 
 ---
 
@@ -47,38 +50,51 @@ Foco em comparações operacionais e análises estratégicas principais.
 
 | Sprint | Entregas Principais | Status |
 |--------|---------------------|--------|
-| 01 | Consolidação das bases + Estrutura inicial do dashboard | Concluído |
-| 02 | Dashboard funcional + Indicadores básicos | Concluído |
-| 03 | Comparações avançadas + Dashboard final | Concluído |
+| 01 | Consolidação e tratamento das bases de dados | Concluído |
+| 02 | Dashboard funcional com indicadores e filtros | Concluído |
+| 03 | Dashboard final, análises comparativas e documentação | Concluído |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O dashboard deve apresentar comparações entre terminais.  
-- Deve exibir ranking de eficiência operacional.  
-- Deve apresentar visualizações dos motivos de paradas.  
-- O layout deve possuir navegação intuitiva.  
-- A documentação final deve estar disponível para o cliente.  
+
+- O dashboard deve apresentar ranking de eficiência dos terminais.
+- Deve permitir comparação entre terminais portuários.
+- Deve apresentar análise dos principais motivos de paradas.
+- Deve disponibilizar evolução temporal da movimentação de cargas.
+- A navegação deve ser intuitiva e responsiva.
+- A documentação do projeto deve estar finalizada.
 
 ---
 
 ## 📈 Métricas de Validação
-- Precisão dos indicadores comparativos.  
-- Validação das análises pelos stakeholders.  
-- Usabilidade e navegação do dashboard.  
-- Performance do dashboard em consultas e filtros.  
+
+- Precisão dos indicadores apresentados.
+- Validação dos resultados pelos stakeholders.
+- Tempo de resposta dos filtros e visualizações.
+- Funcionamento completo do dashboard.
+- Organização da documentação e versionamento no GitHub.
 
 ---
 
 ## 🚀 Próximos Passos
-- Evoluir a plataforma com análises preditivas.  
-- Integrar novas bases de dados portuários.  
-- Automatizar atualização das bases oficiais.  
+
+- Automatizar a atualização das bases da ANTAQ.
+- Incorporar novos indicadores de desempenho.
+- Implementar análises preditivas utilizando modelos estatísticos.
+- Publicar a plataforma em ambiente web.
 
 ---
 
 ## 📂 Anexos / Evidências
-- Dashboard Power BI final  
-- Repositório GitHub atualizado  
-- Documentação do projeto  
-- Bases tratadas e consolidadas  
+
+- Dashboard Power BI final
+- Repositório GitHub atualizado
+- Notebook Google Colab
+- Base consolidada da ANTAQ
+- Manual de utilização
+- Documentação técnica
+
+<p align="right">
+  <a href="#sumario">⬆ Voltar para sumário</a>
+</p>
