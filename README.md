@@ -100,7 +100,7 @@ O foco principal é fornecer métricas estratégicas sobre movimentação de car
 | 6 | Alta | Como analista logístico, quero buscar terminais por nome para facilitar a análise | 3 | 2 |
 | 7 | Média | Como analista logístico, quero visualizar volume de cargas por tipo para entender o perfil logístico | 5 | 3 |
 | 8 | Média | Como gestor portuário, quero comparar terminais entre si para apoiar decisões | 8 | 3 |
-| 9 | Média | Como estudante de logística, quero visualizar dashboards interativos para aprendizado | 3 | 3 |
+| 9 | Média | Como analista de logística, quero visualizar dashboards interativos para aprendizado | 3 | 3 |
 | 10 | Baixa | Como administrador do sistema, quero atualizar a base de dados para manter as informações atualizadas | 2 | 3 |
 
 <p align="right">
