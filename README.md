@@ -1,5 +1,6 @@
 # Metralha Soluções 
-<img width="300" height="300" alt="Sem Título-3" src="https://github.com/user-attachments/assets/ba5e532d-6907-4a76-9ce0-6edc4f94ab58" /> 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/dde856ad-6bd9-4fec-b539-27a0c321f565" />
+
 
 <a id="sumario"></a>
 
